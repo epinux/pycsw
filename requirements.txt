@@ -2,6 +2,6 @@ geolinks==0.2.0
 lxml==4.3.0
 OWSLib==0.17.1
 pyproj==1.9.6
-Shapely==1.6.4
+Shapely==1.6.4.post2
 six==1.12.0
 xmltodict==0.11
