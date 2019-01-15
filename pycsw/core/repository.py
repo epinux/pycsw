@@ -39,7 +39,7 @@ import os
 import six
 from shapely.wkt import loads
 #from shapely.geos import ReadingError
-rom shapely.geos import WKTReadingError, WKTReadingError
+from shapely.geos import WKTReadingError, WKTReadingError
 from sqlalchemy import create_engine, func, __version__, select
 from sqlalchemy.sql import text
 from sqlalchemy.ext.declarative import declarative_base
